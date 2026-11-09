@@ -18,6 +18,7 @@
 
 **Шаг 1. Скачайте репозиторий**
 Откройте командную строку (CMD или Terminal) и выполните:
+
 `git clone https://github.com/AnaStarlet/Instagram_analysis.git`
 `cd Instagram_analysis`
 
