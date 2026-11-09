@@ -16,5 +16,5 @@
 
 1. **Скачайте репозиторий:**
    ```bash
-   git clone https://github.com/ВАШ_НИК/insight-search.git
-   cd insight-search
+   git clone https://github.com/AnaStarlet/Instagram_analysis.git
+   cd Instagram_analysis
