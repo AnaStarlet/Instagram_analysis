@@ -1,0 +1,8 @@
+__pycache__/
+venv/
+.venv/
+*.pyc
+.DS_Store
+instagram_data.db
+*.pdf
+~$*

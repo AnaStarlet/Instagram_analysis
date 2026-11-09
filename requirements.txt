@@ -1,0 +1,14 @@
+streamlit
+pandas
+plotly
+wordcloud
+matplotlib
+fpdf2
+torch
+transformers
+pymorphy3
+sentence-transformers
+scikit-learn
+numpy
+openpyxl
+kaleido
